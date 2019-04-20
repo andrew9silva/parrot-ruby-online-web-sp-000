@@ -1,3 +1,3 @@
 def parrot(squawk)
-  puts "Pretty bird!"
+  puts "#{squawk}"
 end
